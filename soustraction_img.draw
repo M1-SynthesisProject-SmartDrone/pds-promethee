@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liaison_list>
+	<liaison>
+		<depart>11</depart>
+		<arrivee>10</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>8</depart>
+		<arrivee>6</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>7</depart>
+		<arrivee>3</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>8</depart>
+		<arrivee>4</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>7</depart>
+		<arrivee>4</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>4</depart>
+		<arrivee>2</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>5</depart>
+		<arrivee>4</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>10</depart>
+		<arrivee>8</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>35</depart>
+		<arrivee>7</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>4</depart>
+		<arrivee>1</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>1</depart>
+		<arrivee>16</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>27</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>28</depart>
+		<arrivee>27</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>1</depart>
+		<arrivee>22</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>27</depart>
+		<arrivee>22</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>22</depart>
+		<arrivee>29</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>30</depart>
+		<arrivee>31</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>29</depart>
+		<arrivee>31</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>27</depart>
+		<arrivee>32</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>11</depart>
+		<arrivee>35</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>31</depart>
+		<arrivee>36</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>27</depart>
+		<arrivee>23</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>31</depart>
+		<arrivee>23</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>27</depart>
+		<arrivee>24</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>31</depart>
+		<arrivee>24</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>11</depart>
+		<arrivee>34</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>34</depart>
+		<arrivee>37</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>38</depart>
+		<arrivee>4</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>39</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>29</depart>
+		<arrivee>40</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>23</depart>
+		<arrivee>43</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>43</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>24</depart>
+		<arrivee>44</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>44</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>43</depart>
+		<arrivee>45</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>44</depart>
+		<arrivee>46</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>45</depart>
+		<arrivee>47</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>46</depart>
+		<arrivee>47</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+</liaison_list>

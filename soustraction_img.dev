@@ -1,0 +1,8 @@
+%Camera titi is firewire.hwc
+%Camera pano is ../hardware_files/capture.hwc
+%Camera titi is ../hardware_files/firewire_robot.hwc
+Camera cam is cam_usb.hwc
+%ClientRobubox myclient is ../hardware_files/myclient.hwc
+%Robot robulab_etis4 is  ../hardware_files/robulab.hwr
+%Joystick joy is ../hardware_files/joystick.hwj
+

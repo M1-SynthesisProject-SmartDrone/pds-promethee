@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liaison_list>
+	<liaison>
+		<depart>11</depart>
+		<arrivee>10</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>33</depart>
+		<arrivee>6</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>11</depart>
+		<arrivee>9</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>7</depart>
+		<arrivee>3</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>8</depart>
+		<arrivee>4</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>7</depart>
+		<arrivee>4</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>4</depart>
+		<arrivee>2</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>5</depart>
+		<arrivee>4</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>10</depart>
+		<arrivee>8</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>9</depart>
+		<arrivee>7</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>4</depart>
+		<arrivee>24</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>24</depart>
+		<arrivee>26</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>4</depart>
+		<arrivee>1</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>1</depart>
+		<arrivee>16</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>19</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>20</depart>
+		<arrivee>19</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>21</depart>
+		<arrivee>19</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>25</depart>
+		<arrivee>21</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>27</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>28</depart>
+		<arrivee>27</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>1</depart>
+		<arrivee>22</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>16</depart>
+		<arrivee>22</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>22</depart>
+		<arrivee>29</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>30</depart>
+		<arrivee>31</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>29</depart>
+		<arrivee>31</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+	<liaison>
+		<depart>11</depart>
+		<arrivee>33</arrivee>
+		<style>0</style>
+		<coude_list />
+	</liaison>
+</liaison_list>
